@@ -1,12 +1,17 @@
-# FUNCIONALIDADES 
+##BACK-END##
 
-## Aulas
-✔
-- Rota para criar uma aula; []
-- Rota para listar aulas; []
-  - filtrar por matéria, dia da semana e horário; []
+- Back end created in NLW classes #2
+- Studying back end
 
-## Conexões
+# FUNCTIONALITIES 
 
-- Rota para listar o total de conexões realizadas; []
-- Rota para criar uma nova conexão []
+## Classes
+
+- Route to create a class; [✔]
+- Route to list classes; [✔]
+  - filter by subject, day of the week and time; [✔]
+
+## Connections
+
+- Route to list the total connections made; [✔]
+- Route to create a new connection; [✔]
